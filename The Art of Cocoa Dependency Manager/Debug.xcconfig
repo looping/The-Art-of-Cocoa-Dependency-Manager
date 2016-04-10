@@ -1,0 +1,8 @@
+//
+//  Config.xcconfig
+//  The Art of Cocoa Dependency Manager
+//
+//  Created by Looping on 4/10/16.
+//  Copyright © 2016 RidgeCorn. All rights reserved.
+//
+PRODUCT_DISPLAY_NAME = 开发版
